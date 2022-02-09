@@ -1,13 +1,3 @@
-"Run ID:","656"
-"Run Name:","Na3"
-"Time:","03/02/2022 15:30"
-"Gain (*10^6V/A):","5"
-"ADC Max (V):","1"
-"Wavelength Offsett (nm):","0"
-"Pulse Delay (microS):","2000"
-"Sample Delay (microS):","1"
-"Number of Samples:","50"
-
 "Wavelength (nm)","Voltage (V)"
 "580.05","0.004638671875"
 "580.15","0.004638671875"
